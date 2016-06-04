@@ -1,0 +1,5 @@
+Basic Demographics:
+http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_14_5YR_S0101&prodType=table
+
+Inflow/Outflow Report:
+http://onthemap.ces.census.gov/cgi-bin/report.py?mode=details&settings=%7B%22selection%22%3A%5B%22otm_873598765776406d8e23805e3d8314ea%22%5D%2C%22color%22%3A%5B%22%230000AA%22%5D%2C%22comparison_geom%22%3A%22us_plc%22%2C%22destination_rollup%22%3A%22us_plc%22%2C%22job_type%22%3A%22jt01%22%2C%22ac_segment%22%3A%22s000%22%2C%22analysis_type%22%3A%22inflow_outflow_report%22%2C%22geom_operation%22%3A%22ignore%22%2C%22year%22%3A2014%2C%22origin_dir%22%3A%22home%22%2C%22ap_segment%22%3A%22s000%22%2C%22origin_type%22%3A%22work%22%2C%22labor%22%3A%22s000%22%2C%22highlight%22%3A%22all%22%7D&format=full_html&report_id=otm_67dca06029594011861ed0a578cf5cc7&title=Inflow%2FOutflow%20Report&subtitle=&download=false
