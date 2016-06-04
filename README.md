@@ -23,4 +23,6 @@ If you have ideas for improvements that can be made to project currently in the 
 
 Downtown Visions was made with love by these people and a bunch of awesome [contributors](https://github.com/jquery-boilerplate/jquery-patterns/graphs/contributors).
 
+[@svivekvarma](http://github.com/svivekvarma)
+
 
