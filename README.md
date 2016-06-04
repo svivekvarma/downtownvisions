@@ -2,7 +2,7 @@
 
 Downtown Visions is a non profit orgnaization which works towards the wilmington downtown development. They threw in an open data challenge to help improve their website to make it useful to funnel more businesses to downtown wilmington.
 
-## Following resources were scrapped for the project
+## Following resources were used for the project
 
 -   **[Open Data - First Map](http://opendata.firstmap.delaware.gov/datasets?q=*&page=5&sort_by=updated_at)**: A Resource for the Maps and cartographic data to analyze data points
 -   **[Open Data Network](http://www.opendatanetwork.com/region/1600000US1077580/Wilmington_DE/population/population/2013?)**: A resource for the open data available for wilmington
